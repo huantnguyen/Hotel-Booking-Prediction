@@ -1,0 +1,2 @@
+# Hotel-Booking-Prediction
+With the freedom of using both NoSQL and SQL, we still keep the same objective of improving the hotel management process along with customer service, with data analysis. However, in this project, we will shift our focus toward choosing the right technology (NoSQL or SQL) for each table from the two previous projects. By working as a team and discussing the tradeoffs and figuring out what is the best outcome, we build our database depending on what is most convincing to each of the team members. 
